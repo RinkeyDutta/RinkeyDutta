@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Smrutiranjan Pradhan
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> I'm Rinkey Dutta
 </h1>
 <h3 align="center">Full-Stack Engineer | React • Node.js • TypeScript</h3>
 
@@ -17,7 +17,7 @@ Experienced in architecting **secure RESTful APIs**, designing optimized **MySQL
 I love building **high-performance systems, AI applications, and modern digital products** using modern DevOps tools.
 
 - 🌍 Based in **India**
-- ✉️ Email: **bickeypradhan1@gmail.com**
+- ✉️ Email: **duttarinkey2005@gmail.com**
 - 🧠 Currently learning **Advanced TypeScript & scalable system design**
 - 🤝 Open to collaborate on **Full-Stack Apps, AI Tools, SaaS Products**
 - 💬 Ask me about **dangerously clean code & hidden dev superpowers 🦇**
@@ -38,17 +38,15 @@ I love building **high-performance systems, AI applications, and modern digital 
 
 <p align="center">
 
-<a href="https://github.com/bickeypradhan">
+<a href="https://github.com/RinkeyDutta">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/smrutiranjan-pradhan">
+<a href="https://www.linkedin.com/in/rinkey-dutta-936a6731b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.youtube.com/@Talkative AI">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
+
 
 </p>
 
@@ -76,5 +74,4 @@ I love building **high-performance systems, AI applications, and modern digital 
 
 ---
 
-🔥 *The most handsome developer with dangerously clean code.  
-Hire me to unlock hidden powers.* 🦇
+
